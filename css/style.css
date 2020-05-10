@@ -298,7 +298,6 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding-bottom: 10px;
 }
 .main-info img {
   margin-right: 10px;
@@ -456,14 +455,14 @@ body {
   margin-right: 15px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  padding: 4px;
+  padding: 7px;
   border-radius: 10px;
 }
 .basic-slide1 h1 {
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 22px;
 }
 .basic-slide1 p {
   font-style: normal;
